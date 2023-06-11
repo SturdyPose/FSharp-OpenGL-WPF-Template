@@ -21,7 +21,7 @@ dotnet run
 ```
 
 After successful build you should see this:
-![Hello opengl view](HelloOpenGL.png)
+![Hello opengl view](HelloOpenGL.gif)
 
 ## Potential improvements:
 - Domain Specific Language (DSL) or CLI tool which 
