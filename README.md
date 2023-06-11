@@ -13,12 +13,15 @@ As you probably know, GUI and functional programming aren't traditionaly popular
 
 ## Building:
 
-View folder is the root of the project
+View folder is the root of the project.
 
 ```
 cd view
 dotnet run
 ```
+
+After successful build you should see this:
+![Hello opengl view](HelloOpenGL.png)
 
 ## Potential improvements:
 - Domain Specific Language (DSL) or CLI tool which 

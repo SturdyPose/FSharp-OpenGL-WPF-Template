@@ -3,7 +3,7 @@ using System.Windows;
 using OpenTK.Wpf;
 using static FSharpCore.OpenGL;
 
-namespace SomeView{
+namespace View{
     public partial class MainWindow : Window
     {
         bool m_init = false;
@@ -16,7 +16,7 @@ namespace SomeView{
             OpenTkControl.Start(new GLWpfControlSettings()
             {
                 MajorVersion = 4,
-                MinorVersion = 7
+                MinorVersion = 5
             });
         }
 

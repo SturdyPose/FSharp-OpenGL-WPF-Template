@@ -2,7 +2,7 @@
 using System.Windows;
 using static FSharpCore.MainWindow;
 
-namespace SomeView {
+namespace View{
 
     public partial class MainApp: Application
     {
