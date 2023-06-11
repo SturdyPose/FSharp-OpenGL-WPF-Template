@@ -24,5 +24,5 @@ After successful build you should see this:
 ![Hello opengl view](HelloOpenGL.gif)
 
 ## Potential improvements:
-- Domain Specific Language (DSL) or CLI tool which 
+- Domain Specific Language (DSL) or CLI tool which would generate bindings from XAML to F#
 - Depends on your use case but if you separe OpenGL from WPF in the build phase (Debug build and ship), you can ship it anywhere! (Win, Linux, Mac, Android, etc...) 
